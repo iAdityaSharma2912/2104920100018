@@ -13,7 +13,6 @@ const THIRD_PARTY_APIS = {
   r: 'http://20.244.56.144/evaluation-service/rand'
 };
 
-// Fallback numbers for testing if the third-party server fails
 const FALLBACK_NUMBERS = {
   p: [2, 3, 5, 7, 11],
   f: [0, 1, 1, 2, 3],
